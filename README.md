@@ -1,7 +1,7 @@
 ## cresponse
 
 > [!TIP]
-> 检查类型声明是否满足接口返回的数据
+> 检查 `interface` 类型声明是否满足接口返回的数据
 
 [![npm version][npm-version-src]][npm-package-href][![npm downloads][npm-monthly-downloads-src]][npm-monthly-downloads-href][![License][license-src]][npm-package-href]
 
