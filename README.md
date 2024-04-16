@@ -1,7 +1,7 @@
 ## cresponse
 
 > [!TIP]
-> 抓取当前分支最新的两个 tag 并生成软件版本更新日志
+> 检查类型声明是否满足接口返回的数据
 
 [![npm version][npm-version-src]][npm-package-href][![npm downloads][npm-monthly-downloads-src]][npm-monthly-downloads-href][![License][license-src]][npm-package-href]
 
