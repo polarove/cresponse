@@ -5,6 +5,10 @@
 
 [![npm version][npm-version-src]][npm-package-href][![npm downloads][npm-monthly-downloads-src]][npm-monthly-downloads-href][![License][license-src]][npm-package-href]
 
+## todo
+
+解析 `extends` 关键字
+
 ## License
 
 [MIT License](./LICENSE)
