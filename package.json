@@ -1,6 +1,6 @@
 {
 	"name": "cresponse",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "检查类型声明是否满足接口返回的数据",
 	"main": "./lib/index.js",
 	"scripts": {
