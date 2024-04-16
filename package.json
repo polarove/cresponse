@@ -7,6 +7,11 @@
 		"build": "tsc",
 		"test": "vitest"
 	},
+	"keywords": [
+		"response",
+		"typescript",
+		"interface"
+	],
 	"author": "",
 	"license": "MIT",
 	"devDependencies": {
