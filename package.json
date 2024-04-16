@@ -1,8 +1,8 @@
 {
 	"name": "cresponse",
 	"version": "0.0.1",
-	"description": "",
-	"main": "index.js",
+	"description": "检查类型声明是否满足接口返回的数据",
+	"main": "./lib/index.js",
 	"scripts": {
 		"build": "tsc",
 		"test": "vitest"
