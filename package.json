@@ -1,29 +1,29 @@
 {
-	"name": "cresponse",
-	"version": "0.0.3",
-	"description": "检查类型声明是否满足接口返回的数据",
-	"main": "./lib/index.js",
-	"scripts": {
-		"build": "tsc",
-		"test": "vitest"
-	},
-	"keywords": [
-		"response",
-		"typescript",
-		"interface"
-	],
-	"author": "",
-	"license": "MIT",
-	"devDependencies": {
-		"@types/node": "^20.12.7",
-		"chalk": "^5.3.0",
-		"typescript": "^5.4.5",
-		"vitest": "^1.5.0"
-	},
-	"publishConfig": {
-		"access": "public"
-	},
-	"bin": {
-		"cr": "./lib/index.js"
-	}
+    "name": "cresponse",
+    "version": "0.0.3",
+    "description": "检查类型声明是否满足接口返回的数据",
+    "main": "./lib/index.js",
+    "scripts": {
+        "build": "tsc",
+        "test": "vitest"
+    },
+    "keywords": [
+        "response",
+        "typescript",
+        "interface"
+    ],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^20.12.7",
+        "chalk": "^5.3.0",
+        "typescript": "^5.4.5",
+        "vitest": "^1.5.0"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "bin": {
+        "cr": "./lib/index.js"
+    }
 }
